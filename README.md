@@ -2,6 +2,24 @@
 
 # My Projects Repository
 
+ DIGITAL_CV-&-RESUME
+DIGITAL_CV-&-RESUME
+
+
+# DIGITAL Curriculum vitae
+
+
+
+<a href="URL_OF_YOUR_HTML_FILE">Click Here</a>
+
+
+
+# DIGITAL RESUME
+
+<a href="URL_OF_YOUR_HTML_FILE">Click Here</a>
+
+
+
 Welcome to my project's repository! This repository contains various projects and documents related to my work in embedded programming, PCB design, and my professional resume and digital CV. Below you will find a brief overview of each section.
 
 ## Table of Contents
@@ -33,7 +51,6 @@ Here, you can find the report from the PCB design workshop I attended. It includ
 - Photos and schematics of the PCB designed during the workshop.
 
 
-
 ## Resume
 My professional resume is available here for potential employers and collaborators. It includes:
 - My educational background.
@@ -46,8 +63,6 @@ This is an enhanced version of my resume, featuring:
 - Interactive elements.
 - Links to projects and portfolios.
 - More detailed descriptions of my skills and experience.
-
-
 
 
 ## Contact
