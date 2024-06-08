@@ -17,10 +17,14 @@ This section contains various projects and code snippets related to embedded sys
 - Project files for different embedded systems projects.
 - Documentation and comments within the code for better understanding.
 
-### How to Use
-1. Navigate to the `Embedded_Programming` directory.
-2. Open the project folder you are interested in.
-3. Follow the instructions provided in the respective project’s `README` file.
+1. A-code-to-find-the-IP-address-into-32-bit-Unsigned-Integer.
+2. A-code-to-Count-no-of-bits-in-a-given-number.
+3. A-code-to-Converting-into-IP-address.
+4. A-code-to-Convert-48-bit-binary-pattern-into-MAC-address.
+5. A-code-to-Convert-MAC-address-into-48-bit-binary-pattern.
+6. A-code-for-Turning-an-LED-on-and-off-using-a-push-button.
+7. A-code-to-BLINK-a-LED.
+
 
 ## PCB Workshop Report
 Here, you can find the report from the PCB design workshop I attended. It includes:
@@ -28,19 +32,14 @@ Here, you can find the report from the PCB design workshop I attended. It includ
 - Step-by-step process of designing and creating a PCB.
 - Photos and schematics of the PCB designed during the workshop.
 
-### How to Access
-1. Go to the `PCB_Workshop_Report` directory.
-2. Open the `report.pdf` file to read the complete workshop report.
+
 
 ## Resume
 My professional resume is available here for potential employers and collaborators. It includes:
-- My education background.
+- My educational background.
 - Work experience.
 - Skills and certifications.
 
-### How to View
-1. Navigate to the `Resume` directory.
-2. Open the `resume.pdf` file.
 
 ## Digital CV
 This is an enhanced version of my resume, featuring:
@@ -48,24 +47,12 @@ This is an enhanced version of my resume, featuring:
 - Links to projects and portfolios.
 - More detailed descriptions of my skills and experience.
 
-### How to View
-1. Go to the `Digital_CV` directory.
-2. Open the `index.html` file in a web browser.
 
-## How to Contribute
-If you would like to contribute to this repository, please follow these steps:
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/AmazingFeature`).
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`).
-4. Push to the branch (`git push origin feature/AmazingFeature`).
-5. Open a Pull Request.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 If you have any questions, suggestions, or feedback, feel free to contact me:
-- Email: [your-email@example.com](mailto:your-email@example.com)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
+- Email: [venkatteja175@gmail.com](mailto:your-email@example.com)
+- LinkedIn: [https://www.linkedin.com/feed/](https://www.linkedin.com/in/yourprofile)
 
 Thank you for visiting my repository!
