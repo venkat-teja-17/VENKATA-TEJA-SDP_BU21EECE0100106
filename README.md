@@ -26,7 +26,7 @@ During the comprehensive PCB workshop conducted at GITAM University, I worked on
 - [8-BIT COUNTER](https://github.com/venkat-teja-17/PCB-WORKSHOP/tree/main/8-BIT%20COUNTER)
 - [HALF ADDER](https://github.com/venkat-teja-17/PCB-WORKSHOP/tree/main/HALF%20ADDER)
 - [LED BLINKING ON AND OFF](https://github.com/venkat-teja-17/PCB-WORKSHOP/tree/main/LED%20BLINKING%20ON%20AND%20OFF)
-- [POLICE LIGHTS PROJECT](https://github.com/venkat-teja-17/PCB-WORKSHOP/tree/main/POICE%20LIGHTS%20PROJECT)
+- [POLICE LIGHTS PROJECT](https://github.com/venkat-teja-17/PCB-WORKSHOP/tree/main/POLICE%20LIGHTS%20PROJECT)
 
 Each project involved designing and simulating circuits using tools like Tinkercad and EasyEDA, reinforcing fundamental concepts in circuit design and implementation.
 
