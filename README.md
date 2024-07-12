@@ -18,5 +18,17 @@ PCBs are made from a variety of materials, including copper, silicon, and other 
 
 The comprehensive PCB workshop conducted at GITAM University focused on analog and digital circuit design, developing and simulating low-pass filters and half-adder circuits using Tinkercad and EasyEDA. This enhanced skills in PCB design, embedded systems, and sustainable energy solutions, aligning with the key aspects of PCB design and fabrication.
 
+## Workshop Projects
+
+During the comprehensive PCB workshop conducted at GITAM University, I worked on several projects focusing on analog and digital circuit design. These projects enhanced my skills in PCB design, embedded systems, and sustainable energy solutions. The projects completed include:
+
+- [555TIMER](https://github.com/venkat-teja-17/PCB-WORKSHOP/tree/main/555TIMER)
+- [8-BIT COUNTER](https://github.com/venkat-teja-17/PCB-WORKSHOP/tree/main/8-BIT%20COUNTER)
+- [HALF ADDER](https://github.com/venkat-teja-17/PCB-WORKSHOP/tree/main/HALF%20ADDER)
+- [LED BLINKING ON AND OFF](https://github.com/venkat-teja-17/PCB-WORKSHOP/tree/main/LED%20BLINKING%20ON%20AND%20OFF)
+- [POLICE LIGHTS PROJECT](https://github.com/venkat-teja-17/PCB-WORKSHOP/tree/main/POICE%20LIGHTS%20PROJECT)
+
+Each project involved designing and simulating circuits using tools like Tinkercad and EasyEDA, reinforcing fundamental concepts in circuit design and implementation.
 
 Thank you for visiting my repository!
+
