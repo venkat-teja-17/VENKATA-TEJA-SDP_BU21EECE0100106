@@ -8,6 +8,8 @@ Welcome to my project's repository! This repository contains various projects an
 3. [Resume](#resume)
 4. [Digital CV](#digital-cv)
 
+
+
 # Embedded-Programming-Projects
 This repository contains a collection of projects and examples focused on embedded programming. The aim is to provide a comprehensive resource for learning and developing applications for various microcontrollers and embedded systems.
 
@@ -73,12 +75,18 @@ This repository contains a collection of projects and examples focused on embedd
 These explanations provide an overview of the functionality and relevance of each code snippet within the context of embedded programming projects. They cover various topics commonly encountered in embedded systems development, from networking tasks to basic input/output operations and LED control.
 
 
-## PCB Workshop Report
-You can find the report from the PCB design workshop I attended. It includes:
+## PCB Workshop Projects & Report
+During the comprehensive PCB workshop conducted at GITAM University, I worked on several projects focusing on analog and digital circuit design. These projects enhanced my skills in PCB design, embedded systems, and sustainable energy solutions. The projects completed include:
+
+- [555TIMER](https://github.com/venkat-teja-17/PCB-WORKSHOP/tree/main/555TIMER)
+- [8-BIT COUNTER](https://github.com/venkat-teja-17/PCB-WORKSHOP/tree/main/8-BIT%20COUNTER)
+- [HALF ADDER](https://github.com/venkat-teja-17/PCB-WORKSHOP/tree/main/HALF%20ADDER)
+- [LED BLINKING ON AND OFF](https://github.com/venkat-teja-17/PCB-WORKSHOP/tree/main/LED%20BLINKING%20ON%20AND%20OFF)
+- [POLICE LIGHTS PROJECT](https://github.com/venkat-teja-17/PCB-WORKSHOP/tree/main/POLICE%20LIGHTS%20PROJECT)
+- You can find the report from the PCB design workshop I attended. It includes:
 - Detailed notes on PCB design principles.
 - Step-by-step process of designing and creating a PCB.
 - Photos and schematics of the PCB designed during the workshop.
-
 
 
 
