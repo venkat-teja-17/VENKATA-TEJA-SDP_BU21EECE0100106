@@ -60,7 +60,7 @@ This repository contains a collection of projects and examples focused on embedd
    - This code snippet implements a simple program to blink an LED on and off at a fixed rate.
    - It involves toggling the state of a GPIO pin connected to the LED at regular intervals using delay functions or hardware timers.
    - Blinking LEDs are often used as visual indicators in embedded systems and are a common starting point for beginners learning embedded programming concepts.
-      - [LED blinking.pdf](https://github.com/venkat-teja-17/Embedded-Programming-Projects/files/15505637/LED.blinking.pdf)
+ - [LED blinking.pdf](https://github.com/venkat-teja-17/Embedded-Programming-Projects/files/15505637/LED.blinking.pdf)
 
 
 # 8. #**A-code-for-Bit-Manipulation-Program**:
@@ -78,11 +78,11 @@ These explanations provide an overview of the functionality and relevance of eac
 ## PCB Workshop Projects & Report
 During the comprehensive PCB workshop conducted at GITAM University, I worked on several projects focusing on analog and digital circuit design. These projects enhanced my skills in PCB design, embedded systems, and sustainable energy solutions. The projects completed include:
 
-- [555TIMER](https://github.com/venkat-teja-17/PCB-WORKSHOP/tree/main/555TIMER)
-- [8-BIT COUNTER](https://github.com/venkat-teja-17/PCB-WORKSHOP/tree/main/8-BIT%20COUNTER)
-- [HALF ADDER](https://github.com/venkat-teja-17/PCB-WORKSHOP/tree/main/HALF%20ADDER)
-- [LED BLINKING ON AND OFF](https://github.com/venkat-teja-17/PCB-WORKSHOP/tree/main/LED%20BLINKING%20ON%20AND%20OFF)
-- [POLICE LIGHTS PROJECT](https://github.com/venkat-teja-17/PCB-WORKSHOP/tree/main/POLICE%20LIGHTS%20PROJECT)
+- [555TIMER](https://github.com/venkat-teja-17/PCB-WORKSHOP/tree/main/555%20TIMER)
+- [8-BIT COUNTER](https://github.com/venkat-teja-17/PCB-WORKSHOP/tree/main/8-BIT_COUNTER)
+- [HALF ADDER](https://github.com/venkat-teja-17/PCB-WORKSHOP/tree/main/HALF_ADDER)
+- [LED BLINKING ON AND OFF](https://github.com/venkat-teja-17/PCB-WORKSHOP/tree/main/LED_Blinking)
+- [POLICE LIGHTS PROJECT](https://github.com/venkat-teja-17/PCB-WORKSHOP/tree/main/Police_Lights)
 - You can find the report from the PCB design workshop I attended. It includes:
 - Detailed notes on PCB design principles.
 - Step-by-step process of designing and creating a PCB.
